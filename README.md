@@ -43,6 +43,7 @@ Untuk menampilkan data yang sudah diinput
         print("===============================================================================================")
 ```
 Output
+
 ![lihat](gambar/ol.png)
 
 ### Menu "Ubah"
@@ -63,6 +64,7 @@ def ubah():
             print("Data Nilai Tidak Ada".format(nama))
 ```
 Output
+
 ![ubah](gambar/ou.png)
 
 ### Menu "Hapus"
@@ -78,8 +80,13 @@ def hapus():
             print("Data Nilai Tidak Ada".format(nama))
 ```
 Output
+
 ![hapus](gambar/oh.png)
 
 ## Run program
 
 ![run](gambar/run.png)
+
+## Flowchart
+
+![flowchart](gambar/flowchart.jpg)
